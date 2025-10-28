@@ -1,0 +1,7 @@
+{
+  "name": "TripSuk",
+  "description": "An AI-powered travel app to discover hidden gems and support local businesses in Thailand, helping distribute tourism more evenly.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
